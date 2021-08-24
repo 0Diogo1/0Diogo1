@@ -9,8 +9,8 @@
 - 🐷 Isso é tudo pessoal
 <div>
   <a href="https://github.com/0Diogo1">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=0Diogo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Diogo1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=0Diogo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Diogo1&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
   </div>
 <div style="display: inline_block"><br>
@@ -29,5 +29,5 @@
   <a href = "mailto:diogo.ariau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-batista-347a62170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/0Diogo1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/0Diogo1/0Diogo1/blob/output/github-contribution-grid-snake.svg)
 </div>
