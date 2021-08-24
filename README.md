@@ -9,8 +9,8 @@
 - 🐷 Isso é tudo pessoal
 <div>
   <a href="https://github.com/0Diogo1">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=0Diogo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Diogo1&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=0Diogo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Diogo1&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
   </div>
 <div style="display: inline_block"><br>
