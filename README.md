@@ -1,12 +1,9 @@
-### Olá! Sou o Diogo 👋
+### Perfil
 
-- 💻 Estudando Front-End
-- 😃 Gosto de dizer que sei HTML
-- 😀 Meu conhecimento em CSS também é bom
-- 😐 JavaScript é algo em desenvolvimento
-- 🐍 Comecei aprendendo Python... sempre revisito pra não esquecer
-- 👨‍💻 Estou no segundo período de Ciência da Computação
-- 🐷 Isso é tudo pessoal
+Programador front-end
+
+
+
 <div>
   <a href="https://github.com/0Diogo1">
   <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=0Diogo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
